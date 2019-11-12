@@ -65,7 +65,7 @@ export default class Test extends React.Component {
               <span> 20 </span>
             </p>
           </div>
-          <div style={{ paddingRight: "10rem" }}>
+          <div style={{ paddingRight: "10rem", transform: "rotateZ(-20deg)" }}>
             <img src={TopRight} alt="" width="150" />
           </div>
         </div>
