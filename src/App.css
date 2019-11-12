@@ -59,11 +59,11 @@ strike {
 
 /* Right button for carousel */
 .aoTUt {
-  top: 48%;
+  top: 48% !important;
   color: black !important;
   right: -3rem !important;
-  width: 40px;
-  height: 40px;
+  width: 45px !important;
+  height: 45px !important;
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 10rem;
   border: 1px solid #eaeff4;
@@ -72,11 +72,11 @@ strike {
 
 /* Left button for carousel */
 .dHQcjo {
-  top: 48%;
+  top: 48% !important;
   color: black !important;
   left: -3rem !important;
-  width: 40px;
-  height: 40px;
+  width: 45px !important;
+  height: 45px !important;
   background-color: rgba(255, 255, 255, 0.95);
   border-radius: 10rem;
   border: 1px solid #eaeff4;
