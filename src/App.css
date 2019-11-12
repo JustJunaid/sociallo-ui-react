@@ -1,22 +1,88 @@
-.App {
+body {
+  background: #ffcccc;
+  margin-top: 3rem;
+}
+
+.carousel-container {
+  margin: 0px auto;
+  margin-top: 4rem;
+  width: 90vw;
+}
+
+.top-headings {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #09d3ac;
+span {
+  padding: 5px;
+  border: 1px solid burlywood;
+  border-radius: 6px;
+  background: burlywood;
 }
+
+.see-more-button {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+button {
+  background-color: oldlace;
+  padding: 0.5rem 1rem;
+  border: 2px solid black;
+  border-radius: 8px;
+}
+
+.card-item {
+  margin-right: 20px !important;
+}
+
+.card-top-icons {
+  display: flex;
+  justify-content: space-between;
+  margin: 4px 8px 0 8px;
+}
+
+.percent-tag {
+  color: #fff;
+  font-size: 14px;
+  padding: 10px;
+  background: brown;
+  border: 1px solid brown;
+  border-radius: 50%;
+}
+
+strike {
+  font-size: 12px;
+}
+
+/* Right button for carousel */
+.aoTUt {
+  top: 48%;
+  color: black !important;
+  right: -3rem !important;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 10rem;
+  border: 1px solid #eaeff4;
+  opacity: 0.7;
+}
+
+/* Left button for carousel */
+.dHQcjo {
+  top: 48%;
+  color: black !important;
+  left: -3rem !important;
+  width: 40px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.95);
+  border-radius: 10rem;
+  border: 1px solid #eaeff4;
+  opacity: 0.7;
+}
+
+/* .eCmwxb {
+  width: 310px !important;
+} */
